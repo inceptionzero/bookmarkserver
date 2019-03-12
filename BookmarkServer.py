@@ -32,7 +32,7 @@ form = '''<!DOCTYPE html>
 <pre>
 {}
 </pre>
-'''
+'''          
 
 
 def CheckURI(uri, timeout=5):
